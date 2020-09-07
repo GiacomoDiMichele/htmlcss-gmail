@@ -1,0 +1,74 @@
+
+
+body{
+    background-image: url(https://i.pinimg.com/originals/a7/3a/72/a73a7263cb1b6105664842fd46b699e9.png);
+    background-size: cover;
+}
+
+.contenitore{
+    width: 800px;
+    margin: auto;
+}
+header{
+    border-bottom: 2px solid white;
+    margin-top: 11px;
+    margin-bottom: 8px;
+}
+
+#logo{
+    width: 15%;
+}
+
+.testo-logo{
+    font-size: 30px;
+}
+nav{
+    height: 80px;
+    border-bottom: 2px solid white;
+}
+
+.unread{
+    font-size: 30px;
+    width: 600px;
+    margin-top: 8px;
+
+}
+#numero{
+    border: 2px solid white;
+    border-radius: 40px 40px;
+    padding: 3px;
+    background-color: red;
+}
+
+main{
+    height: 110px;
+    border-bottom: 2px solid white;
+}
+
+.caselle{
+    height: 20px;
+    border: 1px solid black;
+    background-color: lightgrey;
+}
+
+.fiore{
+    margin-left: 4px;
+}
+
+#casella-bianca{
+    background-color: white;
+}
+
+footer{
+    text-align: center;
+    margin-top: 10px;
+}
+
+#gmail-grande{
+    font-size: 20px;
+}
+
+.boolean{
+    color: white;
+    font-family: cursive;
+}
